@@ -1,0 +1,61 @@
+{
+  "id": "2013020048",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0048",
+  "utcStart": "2013-10-10 23:00:00+0000",
+  "easternStart": "2013-10-10 19:00:00",
+  "summary": "Avalanche stay perfect as Giguere shuts out Bruins",
+  "h": {
+    "ab": "BOS",
+    "record": "2-1-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "COL",
+    "record": "4-0-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "BOS59",
+      "summary": "N. MacKinnon Tip-In saved by T. Rask",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "BOS304",
+      "summary": "R. O'Reilly (2) Tip-In, assists: A. Benoit (1), M. Duchene (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "BOS54",
+      "summary": "P. Stastny Snap Shot saved by T. Rask",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "BOS695",
+      "summary": "M. Duchene (2) Wrist Shot, assists: none",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
+}

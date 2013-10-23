@@ -1,0 +1,28 @@
+{
+  "id": "2013020152",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0152",
+  "utcStart": "2013-10-25 23:30:00+0000",
+  "easternStart": "2013-10-25 19:30:00",
+  "summary": "",
+  "h": {
+    "ab": "FLA",
+    "record": "3-6-0",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "a": {
+    "ab": "BUF",
+    "record": "1-8-1",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "pbp": []
+}

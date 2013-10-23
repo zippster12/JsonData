@@ -1,0 +1,28 @@
+{
+  "id": "2013020151",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0151",
+  "utcStart": "2013-10-25 23:30:00+0000",
+  "easternStart": "2013-10-25 19:30:00",
+  "summary": "",
+  "h": {
+    "ab": "OTT",
+    "record": "3-3-2",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "a": {
+    "ab": "ANA",
+    "record": "7-1-0",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "pbp": []
+}

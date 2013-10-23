@@ -1,0 +1,28 @@
+{
+  "id": "2013020134",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0134",
+  "utcStart": "2013-10-23 00:00:00+0000",
+  "easternStart": "2013-10-22 20:00:00",
+  "summary": "",
+  "h": {
+    "ab": "MIN",
+    "record": "3-3-3",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "a": {
+    "ab": "NSH",
+    "record": "5-3-1",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "pbp": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "2013020148",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0148",
+  "utcStart": "2013-10-25 02:30:00+0000",
+  "easternStart": "2013-10-24 22:30:00",
+  "summary": "",
+  "h": {
+    "ab": "LAK",
+    "record": "6-3-0",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "a": {
+    "ab": "PHX",
+    "record": "5-2-2",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "pbp": []
+}

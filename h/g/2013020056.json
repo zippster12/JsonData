@@ -1,0 +1,85 @@
+{
+  "id": "2013020056",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0056",
+  "utcStart": "2013-10-11 02:00:00+0000",
+  "easternStart": "2013-10-10 22:00:00",
+  "summary": "Sharks use balanced attack to beat Canucks again",
+  "h": {
+    "ab": "VAN",
+    "record": "3-2-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 2,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "SJS",
+    "record": "4-0-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "pbp": [
+    {
+      "key": "VAN79",
+      "summary": "M. Vlasic (2) Wrist Shot, assists: B. Burns (2), J. Thornton (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "VAN59",
+      "summary": "T. Kennedy Backhand saved by R. Luongo",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "VAN374",
+      "summary": "M. Santorelli (4) Deflected, assists: R. Stanton (3), C. Tanev (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "VAN583",
+      "summary": "B. Burns (2) Wrist Shot, assists: J. Thornton (4), L. Couture (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "VAN352",
+      "summary": "M. Pelech (1) Wrist Shot, assists: J. Sheppard (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "VAN380",
+      "summary": "P. Marleau (3) Slap Shot, assists: T. Kennedy (2), L. Couture (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "VAN53",
+      "summary": "P. Marleau Snap Shot saved by R. Luongo",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
+}

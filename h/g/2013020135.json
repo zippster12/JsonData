@@ -1,0 +1,28 @@
+{
+  "id": "2013020135",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0135",
+  "utcStart": "2013-10-23 00:00:00+0000",
+  "easternStart": "2013-10-22 20:00:00",
+  "summary": "",
+  "h": {
+    "ab": "WPG",
+    "record": "4-5-0",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "a": {
+    "ab": "WSH",
+    "record": "3-5-0",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "pbp": []
+}

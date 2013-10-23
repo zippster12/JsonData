@@ -1,0 +1,28 @@
+{
+  "id": "2013020133",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0133",
+  "utcStart": "2013-10-22 23:30:00+0000",
+  "easternStart": "2013-10-22 19:30:00",
+  "summary": "",
+  "h": {
+    "ab": "FLA",
+    "record": "3-6-0",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "a": {
+    "ab": "CHI",
+    "record": "5-1-2",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "pbp": []
+}

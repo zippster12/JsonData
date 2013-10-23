@@ -1,0 +1,77 @@
+{
+  "id": "2013020054",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0054",
+  "utcStart": "2013-10-11 00:00:00+0000",
+  "easternStart": "2013-10-10 20:00:00",
+  "summary": "Wild defense grounds Jets for first win",
+  "h": {
+    "ab": "MIN",
+    "record": "1-1-2",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "WPG",
+    "record": "2-3-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "MIN424",
+      "summary": "M. Cooke (2) Wrist Shot, assists: T. Mitchell (1), C. Stoner (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MIN35",
+      "summary": "J. Brodin (2) Deflected, assists: M. Cooke (1), K. Brodziak (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MIN329",
+      "summary": "B. Little (3) Tip-In, assists: T. Enstrom (5), D. Byfuglien (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "MIN15",
+      "summary": "E. Tangradi Wrist Shot saved by J. Harding",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "MIN16",
+      "summary": "M. Dumba Slap Shot saved by O. Pavelec",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "MIN13",
+      "summary": "J. Fontaine Wrist Shot saved by O. Pavelec",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
+}

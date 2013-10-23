@@ -1,0 +1,88 @@
+{
+  "games": [
+    {
+      "id": "2013020082",
+      "utcStart": "2013-10-15 23:00:00+0000",
+      "summary": "Raymond, Reimer extend Maple Leafs' streak",
+      "h": "TOR",
+      "a": "MIN"
+    },
+    {
+      "id": "2013020083",
+      "utcStart": "2013-10-15 23:00:00+0000",
+      "summary": "Sabres beat Islanders in shootout for first win",
+      "h": "NYI",
+      "a": "BUF"
+    },
+    {
+      "id": "2013020084",
+      "utcStart": "2013-10-15 23:00:00+0000",
+      "summary": "Tortorella separates Sedins, Canucks top Flyers",
+      "h": "PHI",
+      "a": "VAN"
+    },
+    {
+      "id": "2013020085",
+      "utcStart": "2013-10-15 23:00:00+0000",
+      "summary": "Malkin's goal leads Penguins past Oilers",
+      "h": "PIT",
+      "a": "EDM"
+    },
+    {
+      "id": "2013020086",
+      "utcStart": "2013-10-15 23:00:00+0000",
+      "summary": "Blackhawks beat Hurricanes in shootout",
+      "h": "CAR",
+      "a": "CHI"
+    },
+    {
+      "id": "2013020088",
+      "utcStart": "2013-10-15 23:30:00+0000",
+      "summary": "St. Louis, Bishop help Lightning conquer Kings",
+      "h": "TBL",
+      "a": "LAK"
+    },
+    {
+      "id": "2013020087",
+      "utcStart": "2013-10-16 00:00:00+0000",
+      "summary": "Gustavsson stars as Red Wings edge Blue Jackets",
+      "h": "DET",
+      "a": "CBJ"
+    },
+    {
+      "id": "2013020089",
+      "utcStart": "2013-10-16 00:00:00+0000",
+      "summary": "Sharks rout Blues in battle of unbeatens",
+      "h": "STL",
+      "a": "SJS"
+    },
+    {
+      "id": "2013020090",
+      "utcStart": "2013-10-16 00:00:00+0000",
+      "summary": "Predators hold on to beat Panthers",
+      "h": "NSH",
+      "a": "FLA"
+    },
+    {
+      "id": "2013020091",
+      "utcStart": "2013-10-16 00:00:00+0000",
+      "summary": "Canadiens, Price blank Jets to end road trip",
+      "h": "WPG",
+      "a": "MTL"
+    },
+    {
+      "id": "2013020092",
+      "utcStart": "2013-10-16 01:00:00+0000",
+      "summary": "Duchene's pair leads Avalanche past Stars",
+      "h": "COL",
+      "a": "DAL"
+    },
+    {
+      "id": "2013020093",
+      "utcStart": "2013-10-16 02:00:00+0000",
+      "summary": "Senators rally to beat Coyotes in OT",
+      "h": "PHX",
+      "a": "OTT"
+    }
+  ]
+}

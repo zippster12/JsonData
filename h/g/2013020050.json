@@ -1,0 +1,85 @@
+{
+  "id": "2013020050",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0050",
+  "utcStart": "2013-10-10 23:00:00+0000",
+  "easternStart": "2013-10-10 19:00:00",
+  "summary": "Hurricanes edge Capitals on Gerbe's goal",
+  "h": {
+    "ab": "WSH",
+    "record": "1-3-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "a": {
+    "ab": "CAR",
+    "record": "2-1-2",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "WSH21",
+      "summary": "J. Chimera (1) Wrist Shot, assists: E. Fehr (1), J. Carlson (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH459",
+      "summary": "A. Semin (1) Slap Shot, assists: E. Staal (1), J. Skinner (5)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH299",
+      "summary": "E. Lindholm (1) Deflected, assists: J. Skinner (4), R. Murphy (2)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH13",
+      "summary": "E. Fehr Snap Shot saved by A. Khudobin",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH652",
+      "summary": "N. Gerbe (3) Wrist Shot, assists: J. Staal (1), J. Faulk (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH454",
+      "summary": "A. Ovechkin (5) Tip-In, assists: S. Oleksy (1), N. Backstrom (4)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "WSH15",
+      "summary": "M. Grabovski Tip-In saved by A. Khudobin",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "2013020142",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0142",
+  "utcStart": "2013-10-24 23:30:00+0000",
+  "easternStart": "2013-10-24 19:30:00",
+  "summary": "",
+  "h": {
+    "ab": "MTL",
+    "record": "5-3-0",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "a": {
+    "ab": "ANA",
+    "record": "7-1-0",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "pbp": []
+}

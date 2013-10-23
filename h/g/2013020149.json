@@ -1,0 +1,28 @@
+{
+  "id": "2013020149",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0149",
+  "utcStart": "2013-10-25 23:00:00+0000",
+  "easternStart": "2013-10-25 19:00:00",
+  "summary": "",
+  "h": {
+    "ab": "PIT",
+    "record": "7-1-0",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "a": {
+    "ab": "NYI",
+    "record": "3-3-2",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "pbp": []
+}

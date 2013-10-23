@@ -1,0 +1,28 @@
+{
+  "id": "2013020162",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0162",
+  "utcStart": "2013-10-27 00:00:00+0000",
+  "easternStart": "2013-10-26 20:00:00",
+  "summary": "",
+  "h": {
+    "ab": "CHI",
+    "record": "5-1-2",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "a": {
+    "ab": "MIN",
+    "record": "3-3-3",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "pbp": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "2013020127",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0127",
+  "utcStart": "2013-10-21 23:30:00+0000",
+  "easternStart": "2013-10-21 19:30:00",
+  "summary": "Penguins put home mark on line vs. road-tested Avs",
+  "h": {
+    "ab": "PIT",
+    "record": "7-1-0",
+    "live": "138",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "a": {
+    "ab": "COL",
+    "record": "7-1-0",
+    "live": "143",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "pbp": []
+}

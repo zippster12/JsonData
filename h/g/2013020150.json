@@ -1,0 +1,28 @@
+{
+  "id": "2013020150",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0150",
+  "utcStart": "2013-10-25 23:00:00+0000",
+  "easternStart": "2013-10-25 19:00:00",
+  "summary": "",
+  "h": {
+    "ab": "CBJ",
+    "record": "3-5-0",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "a": {
+    "ab": "TOR",
+    "record": "6-3-0",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "pbp": []
+}

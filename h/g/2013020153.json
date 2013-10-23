@@ -1,0 +1,28 @@
+{
+  "id": "2013020153",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0153",
+  "utcStart": "2013-10-26 00:00:00+0000",
+  "easternStart": "2013-10-25 20:00:00",
+  "summary": "",
+  "h": {
+    "ab": "STL",
+    "record": "5-1-1",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "a": {
+    "ab": "VAN",
+    "record": "5-4-1",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "pbp": []
+}

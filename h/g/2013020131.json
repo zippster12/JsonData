@@ -1,0 +1,28 @@
+{
+  "id": "2013020131",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0131",
+  "utcStart": "2013-10-22 23:00:00+0000",
+  "easternStart": "2013-10-22 19:00:00",
+  "summary": "",
+  "h": {
+    "ab": "CBJ",
+    "record": "3-5-0",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "a": {
+    "ab": "NJD",
+    "record": "1-4-3",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "pbp": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "2013020138",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0138",
+  "utcStart": "2013-10-24 00:00:00+0000",
+  "easternStart": "2013-10-23 20:00:00",
+  "summary": "",
+  "h": {
+    "ab": "BUF",
+    "record": "1-8-1",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "a": {
+    "ab": "BOS",
+    "record": "5-2-0",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "pbp": []
+}

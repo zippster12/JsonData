@@ -1,0 +1,28 @@
+{
+  "id": "2013020146",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0146",
+  "utcStart": "2013-10-25 00:30:00+0000",
+  "easternStart": "2013-10-24 20:30:00",
+  "summary": "",
+  "h": {
+    "ab": "DAL",
+    "record": "3-5-0",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "a": {
+    "ab": "CGY",
+    "record": "3-2-2",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "pbp": []
+}

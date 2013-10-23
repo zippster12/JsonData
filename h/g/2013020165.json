@@ -1,0 +1,28 @@
+{
+  "id": "2013020165",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0165",
+  "utcStart": "2013-10-27 02:00:00+0000",
+  "easternStart": "2013-10-26 22:00:00",
+  "summary": "",
+  "h": {
+    "ab": "CGY",
+    "record": "3-2-2",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "a": {
+    "ab": "WSH",
+    "record": "3-5-0",
+    "live": "",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "pbp": []
+}

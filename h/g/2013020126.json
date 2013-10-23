@@ -1,0 +1,28 @@
+{
+  "id": "2013020126",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0126",
+  "utcStart": "2013-10-21 23:30:00+0000",
+  "easternStart": "2013-10-21 19:30:00",
+  "summary": "Red Wings back home, looking to slow down Sharks",
+  "h": {
+    "ab": "DET",
+    "record": "6-3-0",
+    "live": "136",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "a": {
+    "ab": "SJS",
+    "record": "7-0-1",
+    "live": "145",
+    "replayShort": "",
+    "replayShortNumber": 0,
+    "replayFull": "",
+    "replayFullNumber": 0
+  },
+  "pbp": []
+}

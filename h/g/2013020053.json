@@ -1,0 +1,69 @@
+{
+  "id": "2013020053",
+  "sid": "2013",
+  "t": "02",
+  "gn": "0053",
+  "utcStart": "2013-10-11 00:00:00+0000",
+  "easternStart": "2013-10-10 20:00:00",
+  "summary": "Maple Leafs blank Predators behind Bernier",
+  "h": {
+    "ab": "NSH",
+    "record": "1-3-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 1,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "a": {
+    "ab": "TOR",
+    "record": "4-1-0",
+    "live": "",
+    "replayShort": "150",
+    "replayShortNumber": 2,
+    "replayFull": "150",
+    "replayFullNumber": 1
+  },
+  "pbp": [
+    {
+      "key": "NSH7",
+      "summary": "C. Wilson Wrist Shot saved by J. Bernier",
+      "homeType": "save",
+      "homeNumber": 1,
+      "awayType": "save",
+      "awayNumber": 1
+    },
+    {
+      "key": "NSH425",
+      "summary": "J. van Riemsdyk (3) Wrap-around, assists: P. Kessel (3), C. Gunnarsson (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NSH407",
+      "summary": "P. Kessel (2) Snap Shot, assists: J. van Riemsdyk (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NSH629",
+      "summary": "T. Bozak (2) Wrist Shot, assists: P. Kessel (4), M. Rielly (1)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    },
+    {
+      "key": "NSH632",
+      "summary": "J. Lupul (3) Tip-In, assists: J. Gardiner (1), N. Kadri (3)",
+      "homeType": "goal",
+      "homeNumber": 1,
+      "awayType": "goal",
+      "awayNumber": 1
+    }
+  ]
+}
